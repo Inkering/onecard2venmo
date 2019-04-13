@@ -12,4 +12,6 @@
 * An option: NFC/RFID arduino shield: <https://www.adafruit.com/product/789>  
 * An option: NFC/RFID breakout board (supports I2C): <https://www.adafruit.com/product/364>  
 * Optional: PS/2 wired connector: <https://www.adafruit.com/product/804>  
+* ftdi cable example: <https://www.adafruit.com/product/70>  
+
 ### Software
