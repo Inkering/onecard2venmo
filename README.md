@@ -15,3 +15,4 @@
 * ftdi cable example: <https://www.adafruit.com/product/70>  
 
 ### Software
+* pySerial: <https://pyserial.readthedocs.io/en/latest/shortintro.html>
